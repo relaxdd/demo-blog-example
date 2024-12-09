@@ -1,0 +1,10 @@
+.latest-posts {
+  /* border: 1px solid #ced4da; */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  grid-auto-flow: dense;
+  grid-column-gap: 1.5rem;
+  min-height: 1500px;
+  align-items: flex-start;
+}
